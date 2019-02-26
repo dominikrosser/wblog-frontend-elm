@@ -1,7 +1,6 @@
 
-# wblog-frontend-elm
+# wblog
 
-Frontend part of wblog
 Goals
 
   - Having a place to upload tutorials
@@ -28,9 +27,11 @@ Tech (Frontend)
 
   - Elm lang (purely functional, compiled to js)
   - Html / CSS / JS
-
-View / Appearance
-
-  - Bulma (css vs elm-bulma -> plain css for better learning effect)
+  - Bulma
   - SASS / SCSS
 
+Tech (Backend)
+
+  - Rust lang
+  - Rocket framework
+  - Diesel & Postgres
